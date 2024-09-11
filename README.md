@@ -14,8 +14,7 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (TRC20):** `TUeGCozCNL1s5XqGkZ1DtKuCnugJaDnYcc`
-- **Tezos (XTZ):** `tz1RSFQ8jDTZC2UZPwHy55D9XvfnW9KqfZb1`
+- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
 
 ## Features
 
@@ -30,6 +29,8 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 9. **Subscription Link (JSON):** Provides subscription link for JSON configs.
 10. **Password-Protected Panel:** Secure your panel with password protection.
 11. **Custom Cloudflare Clean IP:** Ability to use online scanner and setting up clean IP-domains.
+12. **Warp configs:** Provides Warp and Warp on Warp subscription.
+13. **Warp Pro configs:** Optimized Warp for crucial circumstances.
 <br>
 
 ## How to use:
@@ -43,17 +44,19 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 ## Supported Clients
-| Client  | Version | Fragment |
-| :-------------: | :-------------: | :-------------: |
-| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: |
-| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: |
-| **Nekobox**  |   | :x: |
-| **Sing-box**  | 1.8.10 or higher  | :x: |
-| **Streisand**  |   | :heavy_check_mark: |
-| **V2Box**  |   | :x: |
-| **Shadowrocket**  |   | :x: |
-| **Nekoray**  |   | :heavy_check_mark: |
-| **Hiddify**  |   | :x: |
+| Client  | Version | Fragment | Warp Pro |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: | :x: |
+| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: | :x: |
+| **v2rayN-PRO**  | 1.4 or higher  | :heavy_check_mark: | :heavy_check_mark: |
+| **Nekobox**  |   | :x: | :x: |
+| **Sing-box**  | 1.8.10 or higher  | :x: | :x: |
+| **Streisand**  |   | :heavy_check_mark: | :x: |
+| **V2Box**  |   | :x: | :x: |
+| **Shadowrocket**  |   | :x: | :x: |
+| **Nekoray**  |   | :heavy_check_mark: | :x: |
+| **Hiddify**  | 2.0.5 or higher  | :x: | :heavy_check_mark: |
+| **NikaNG**  |   | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ---
